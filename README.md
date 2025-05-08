@@ -1,1 +1,3 @@
-# Breast_Cancer_Detection
+# BreastCancerDetection
+
+This is my implementation using CNN and other new methods
